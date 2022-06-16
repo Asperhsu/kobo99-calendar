@@ -12,4 +12,4 @@ CALENDAR_ID = "rqcl9m6ucfca9vp67afvi3bdhk@group.calendar.google.com"
 CALENDAR_ID = "rcmvnfej75s7c9sjdbic1f55v8@group.calendar.google.com"
 
 [env.production.triggers]
-crons = [ "20 1,2 * * WED" ]
+crons = [ "20 1,2 * * THU" ]
